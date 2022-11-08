@@ -1,0 +1,10 @@
+{
+    "name": "Undefined.Owlet.Editor",
+    "references": [
+      "Undefined.Owlet"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Undefined.Owlet.Editor.Tests",
+    "references": [
+        "Undefined.Owlet.Editor",
+        "Undefined.Owlet"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

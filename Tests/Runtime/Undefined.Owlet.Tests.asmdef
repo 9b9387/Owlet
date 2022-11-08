@@ -1,0 +1,11 @@
+{
+    "name": "Undefined.Owlet.Tests",
+    "references": [
+        "Undefined.Owlet"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
