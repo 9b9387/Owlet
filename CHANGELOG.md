@@ -12,3 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Wrapper UI Manager
 - Wrapper WebRequest Manager
 - Wrapper Event Center
+
+## [0.0.0] - 2022-11-08
+
+- Add Editor Scripts

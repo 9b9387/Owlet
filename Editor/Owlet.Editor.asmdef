@@ -2,7 +2,7 @@
     "name": "Owlet.Editor",
     "rootNamespace": "",
     "references": [
-        "Undefined.Owlet"
+        "GUID:456fc7c32324349ecba2b8999e4614d3"
     ],
     "includePlatforms": [
         "Editor"
